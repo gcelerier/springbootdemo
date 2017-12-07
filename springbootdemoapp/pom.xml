@@ -5,7 +5,7 @@
 
     <groupId>be.geertcelerier.test.springboot</groupId>
     <artifactId>springbootdemoapp</artifactId>
-    <version>${parent.version}</version>
+    <version>1.0.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
     <name>elkdemoapp</name>
